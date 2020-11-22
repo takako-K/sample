@@ -1,0 +1,15 @@
+body {
+  color: red;
+}
+
+#word-red {
+  color: red;
+}
+
+.blue-word {
+  color: blue;
+}
+
+.black-word {
+  color: black;
+}
